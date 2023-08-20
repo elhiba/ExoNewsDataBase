@@ -1,0 +1,13 @@
+[
+  {
+    "title": "News Title 1",
+    "description": "News Description 1",
+    "imageUrl": "https://via.placeholder.com/150"
+  },
+  {
+    "title": "News Title 2",
+    "description": "News Description 2",
+    "imageUrl": "https://via.placeholder.com/150"
+  }
+  // ... more articles
+]
